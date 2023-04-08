@@ -1,0 +1,81 @@
+[
+    {
+        "id": "삼성전자",
+        "searchkeyword": {
+            "검색어": null
+        },
+        "insertimage": {
+            "yt": [
+                {
+                    "ytlink": "https://www.youtube.com/watch?v=UQ-RhocYCD0",
+                    "ytype": "mp4",
+                    "sourceinfo": "tage",
+                    "frameimgroot": "/Users/hg/DEVELOP/MAIN_DEV/naverblog/project/data/imagef/youtubeFrameImage",
+                    "itype": "png"
+                },
+                {
+                    "ytlink": "https://www.youtube.com/watch?v=UQ-RhocYCD0",
+                    "ytype": "mp4",
+                    "sourceinfo": "tage",
+                    "frameimgroot": "/Users/hg/DEVELOP/MAIN_DEV/naverblog/project/data/imagef/youtubeFrameImage",
+                    "itype": "png"
+                }
+            ]
+        },
+        "capturedata": {
+            "searchcode": [
+                {
+                    "capsrc": "tradingview",
+                    "find_element": "div_class_id",
+                    "class_name": "chart-markup-table",
+                    "link": "https://www.tradingview.com/chart/ErbSDXA1/?symbol=UPBIT%3ABTCKRW",
+                    "size": "100%"
+                },
+                {
+                    "capsrc": "tradingview",
+                    "find_element": "div_class_id",
+                    "class_name": "tv-economic-calendar",
+                    "link": "https://www.tradingview.com/economic-calendar/",
+                    "size": "100%"
+                },
+                {
+                    "capsrc": "tradingview",
+                    "find_element": "div_class_id",
+                    "class_name": "canvasContainer-EJTYN_I9",
+                    "link": "https://www.tradingview.com/heatmap/stock/?color=change&dataset=AllKR&group=sector&size=market_cap_basic",
+                    "size": "100%"
+                },
+                {
+                    "capsrc": "tradingview",
+                    "find_element": "div_class_id",
+                    "class_name": "canvasContainer-EJTYN_I9",
+                    "link": "https://www.tradingview.com/heatmap/stock/?color=change&dataset=NASDAQCOMPOSITE&group=sector&size=market_cap_basic",
+                    "size": "100%"
+                }
+            ]
+        },
+        "stockinfo": {
+            "삼성전자": [
+                {
+                    "state": "Ohio",
+                    "shortname": "OH",
+                    "info": {
+                        "governor": "ㅁㄴㅇㄹㅁㅈㄹㅁㄴㅇㄹ Kasich"
+                    },
+                    "counties": [
+                        {
+                            "name": "Summit",
+                            "population": 1234
+                        },
+                        {
+                            "name": "Cuyahoga",
+                            "population": 12341234
+                        }
+                    ],
+                    "statedata": 101
+                }
+            ]
+        },
+        "imgpath": "/Users/hg/WORKSPACE/Gitblog/mkdocs-material/docs/md/posts/images/검색어"
+    }
+]

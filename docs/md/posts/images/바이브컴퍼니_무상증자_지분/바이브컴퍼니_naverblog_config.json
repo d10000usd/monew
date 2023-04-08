@@ -1,0 +1,82 @@
+[
+    {
+        "id": "바이브컴퍼니",
+        "searchkeyword": {
+            "바이브컴퍼니_무상증자_지분": null
+        },
+        "insertimage": {
+            "yt": [
+                {
+                    "ytlink": "https://www.youtube.com/watch?v=UQ-RhocYCD0",
+                    "ytype": "mp4",
+                    "sourceinfo": "tage",
+                    "frameimgroot": "/Users/hg/DEVELOP/MAIN_DEV/naverblog/project/data/imagef/youtubeFrameImage",
+                    "itype": "png"
+                },
+                {
+                    "ytlink": "https://www.youtube.com/watch?v=UQ-RhocYCD0",
+                    "ytype": "mp4",
+                    "sourceinfo": "tage",
+                    "frameimgroot": "/Users/hg/DEVELOP/MAIN_DEV/naverblog/project/data/imagef/youtubeFrameImage",
+                    "itype": "png"
+                }
+            ]
+        },
+        "capturedata": {
+            "searchcode": [
+                {
+                    "note": "chart",
+                    "capsrc": "tradingview-chart",
+                    "find_element": "div_class_id",
+                    "class_name": "chart-markup-table",
+                    "link": "https://www.tradingview.com/chart/ErbSDXA1/?symbol=KRX%3A301300",
+                    "size": "100%"
+                },
+                {
+                    "note": "calender",
+                    "find_element": "div_class_id",
+                    "class_name": "tv-economic-calendar",
+                    "link": "https://www.tradingview.com/economic-calendar/",
+                    "size": "100%"
+                },
+                {
+                    "note": "Korea-market-View",
+                    "find_element": "div_class_id",
+                    "class_name": "canvasContainer-EJTYN_I9",
+                    "link": "https://www.tradingview.com/heatmap/stock/?color=change&dataset=AllKR&group=sector&size=market_cap_basic",
+                    "size": "100%"
+                },
+                {
+                    "note": "USA-market-nasdaq100-s&p100-composit-View",
+                    "find_element": "div_class_id",
+                    "class_name": "canvasContainer-EJTYN_I9",
+                    "link": "https://www.tradingview.com/heatmap/stock/?color=change&dataset=NASDAQCOMPOSITE&group=sector&size=market_cap_basic",
+                    "size": "100%"
+                }
+            ]
+        },
+        "stockinfo": {
+            "바이브컴퍼니": [
+                {
+                    "state": "Ohio",
+                    "shortname": "OH",
+                    "info": {
+                        "governor": "ㅁㄴㅇㄹㅁㅈㄹㅁㄴㅇㄹ Kasich"
+                    },
+                    "counties": [
+                        {
+                            "name": "Summit",
+                            "population": 1234
+                        },
+                        {
+                            "name": "Cuyahoga",
+                            "population": 12341234
+                        }
+                    ],
+                    "statedata": 101
+                }
+            ]
+        },
+        "imgpath": "/Users/hg/WORKSPACE/Gitblog/mkdocs-material/docs/md/posts/images/바이브컴퍼니_무상증자_지분"
+    }
+]
